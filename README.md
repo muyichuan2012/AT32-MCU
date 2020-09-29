@@ -1,2 +1,2 @@
 # AT32-MCU
-for artery at32 MCU code development
+for artery AT32 MCU code development
